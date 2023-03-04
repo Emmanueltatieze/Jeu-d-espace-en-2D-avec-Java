@@ -1,4 +1,4 @@
-# 😊Jeu-d-espace-en-2D-avec-Java
+# 😊Jeu d'espace en 2D avec Java
 J'ai eu a réaliser ce jeu dans le cadre d'un projet Java de mon école ou je suis en formation en ingénierie informatique.
 🚀Le code possède donc plusieurs classes(méthodes, attributs) et des notions comme l'héritage, les Exceptions et aussi le principe de superposition d'images pour faire des petites animations👍.
 | Deployed App |
